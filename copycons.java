@@ -33,7 +33,7 @@ class copycons
 	
 	copycons student1 = new copycons(name,age);
         copycons student2 = new copycons(student1);
-        System.out.println("\nDetails of Student 1");
+        System.out.println("\nDetails of Student 100");
         student1.display();
 
         System.out.println("\nDetails of Student 2");
